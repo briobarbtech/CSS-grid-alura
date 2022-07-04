@@ -8,16 +8,13 @@
 }
                                                 /* HEADER*/
 .encabezado {
-    background-color: #00cc99;
     grid-area: encabezado;
 }
                                                 /* MAIN */
 .contenido {
-    background-color: #ff8080;
     grid-area: contenido;
 }
                                                 /* FOOTER */
 .rodapie { 
-    background-color: #0099ff;
     grid-area: rodapie;
 }
